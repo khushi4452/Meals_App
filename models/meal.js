@@ -16,9 +16,13 @@ class Meal {
         this.title = title
         this.categoryIds = categoryIds;
         this.affordability = affordability;
-
-
-     
+        this.complexity = complexity;
+        this.imageurl = imageurl;
+        this.duration = duration;
+        this.imgradients = imgradients;
+        this.steps = steps;
+        this.isVegan = isVegan;
+        this.isvegeterian = isvegeterian;
 
     }
 }
