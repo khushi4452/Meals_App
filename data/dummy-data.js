@@ -13,3 +13,19 @@ export const CATEGORIES = [
     new Category('C6', 'Italian', '#f5428d'), 
 
 ];
+
+export const MEALS = [
+    new Meal(
+        'm1',
+        ['c1','c2'],
+        'Tomato Sauce',
+        'affordable',
+        'simple',
+        '',
+        20,
+
+    )
+]
+
+
+
