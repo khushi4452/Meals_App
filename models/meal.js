@@ -2,6 +2,7 @@ class Meal {
     constructor(
         id,
         title,
+        categoryIds,
         affordability,
         complexity,
         imageurl,
@@ -11,6 +12,11 @@ class Meal {
         isVegan,
         isvegeterian
     ){
+        this.id = id;
+        this.title = title
+        this.categoryIds = categoryIds;
+        this.affordability = affordability;
+
 
      
 
