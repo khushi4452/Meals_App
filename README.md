@@ -1,2 +1,2 @@
 ## - Basic meals app 
-### Basic Operations are used in this App .
+### Basic Operations are used in this App 
