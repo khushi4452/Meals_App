@@ -9,8 +9,7 @@ export const CATEGORIES = [
     new Category('C5', 'Italian', '#2596be'),
     new Category('C6', 'Italian', '#f5428d'), 
     new Category('C4', 'Italian', '#f5428d'),
-    new Category('C5', 'Italian', '#2596be'),
-    new Category('C6', 'Italian', '#f5428d'), 
+  
 
 ];
 
