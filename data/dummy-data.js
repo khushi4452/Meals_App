@@ -21,7 +21,7 @@ export const MEALS = [
         'affordable',
         'simple',
         '',
-        20,
+     
 
     )
 ]
